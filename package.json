@@ -1,0 +1,10 @@
+{
+  "name": "com.mapbox.mapbox-sdk",
+  "version": "2.1.1",
+  "displayName": "Mapbox Unity SDK",
+  "description": "The Mapbox Maps SDK for Unity is a set of tools to build Unity applications from real map data.",
+  "author": {
+    "name": "Mapbox",
+    "url": "https://mapbox.com"
+  }
+}
